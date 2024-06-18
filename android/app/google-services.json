@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "104202761802",
+    "project_id": "online-store-29884",
+    "storage_bucket": "online-store-29884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104202761802:android:e421951a441023b28c98b3",
+        "android_client_info": {
+          "package_name": "com.example.prueba_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104202761802-eqmobn4ufb88vrfnlmnoa4fhdf2pu04v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDATpzuBUIiBG00nFPZItQ9TAHX1w0llVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104202761802-eqmobn4ufb88vrfnlmnoa4fhdf2pu04v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104202761802-ha4jkofn8ki3h0aiehmcp741v6q07eq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appMiTienda"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104202761802:android:fbcd33dea352c86c8c98b3",
+        "android_client_info": {
+          "package_name": "online.store.ax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104202761802-eqmobn4ufb88vrfnlmnoa4fhdf2pu04v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDATpzuBUIiBG00nFPZItQ9TAHX1w0llVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104202761802-eqmobn4ufb88vrfnlmnoa4fhdf2pu04v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104202761802-ha4jkofn8ki3h0aiehmcp741v6q07eq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appMiTienda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
